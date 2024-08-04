@@ -1,26 +1,65 @@
-<h1 align="center">Hi 👋, I'm Adem</h1>
-<h3 align="center">A passionate fronteAn enthusiastic, assertive and enthusiastic application and web developer from Turkeynd developer from India</h3>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Adem%20Yıldız&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=10adem&label=Profile%20views&color=0e75b6&style=flat" alt="10adem" /> </p>
 
-- 📫 How to reach me **ademyildizofficial@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ademyildiz10](https://www.linkedin.com/in/ademyildiz10)
+<a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ademylz10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ademylz10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ademyildiz10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ademyildiz10" height="30" width="40" /></a>
-<a href="https://instagram.com/adeem.kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adeem.kt" height="30" width="40" /></a>
-<a href="https://medium.com/@ademyildiz10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ademyildiz10" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@ademylz10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@ademylz10" height="30" width="40" /></a>
+### Ben Kimim
+- :computer:Selçuk Üniversitesi Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim.
+- :computer:YetGen IT Ekip Lideri olarak görev yapmaktayım
+- :computer:Veri Bilimi ve Web Geliştirme alanlarında çalışmalar gerçekleştiriyorum.
+- :computer:Sürekli kendimi geliştirmeye çalışıyorum. 
+- 📫 Bana ulaşmak isterseniz **ademyildizofficial@gmail.com** adresini kullanabilirsiniz. 
+
+***:computer:	Simplicity is a prerequisite for reliability.***
+<br>
+<p align="center">
+  <img src= "https://gpvc.arturio.dev/10adem" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/10adem?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/10adem?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h1 align="center"> 💻Yazılım Geliştiricisi</h1>
+<p align="center">
+<a href="https://github.com/10adem">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=10adem&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+ <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10adem&layout=compact&langs_count=16&theme=react"/>
+ </div>
+</p>
+<div align = "center">
+ 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=10adem&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+ 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=10adem&show_icons=true&locale=en&layout=compact" alt="10adem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=10adem&show_icons=true&locale=en" alt="10adem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=10adem&" alt="10adem" /></p>
+
+ <h2 align="center">Sosyal Medya Hesaplarım </h2>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademyildiz10/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adeem.py)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ademyildiz10)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](www.youtube.com/@ademylz10)
+
+
+<h2 align="center">Dil & Framework</h2>
+
+![My Skills](https://skillicons.dev/icons?i=py,cs,js,dotnet,html,css,bootstrap)
+
+
+<h2 align="center">Database</h2>
+
+![My Skills](https://skillicons.dev/icons?i=mssql,mysql)
+<img src="https://user-images.githubusercontent.com/75336900/214643444-15a6b822-2439-45e0-8cfb-d74c95f1dfc6.png" height=50>
+
+<h2 align="center">Kullandığım IDE Çeşitleri</h2>
+
+![My Skills](https://skillicons.dev/icons?i=jupyterlab,jupyternootebook,spyder,pycharm,vscode,visualstudio,androidstudio)
+
+<h2 align="center">Tasarım Araçları</h2>
+
+![My Skills](https://skillicons.dev/icons?i=figma,canva)
+<img src="https://logos-world.net/wp-content/uploads/2021/11/Canva-New-Logo.png" height=50>
