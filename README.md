@@ -26,6 +26,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10adem&layout=compact&langs_count=16&theme=react"/>
  </div>
 </p>
+<br>
+
 <div align = "center">
  
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=10adem&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
@@ -40,7 +42,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademyildiz10/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adeem.py)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ademyildiz10)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](www.youtube.com/@ademylz10)
 
 
 <h2 align="center">Dil & Framework</h2>
@@ -51,7 +52,6 @@
 <h2 align="center">Database</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=mysql)
-<img src="https://user-images.githubusercontent.com/75336900/214643444-15a6b822-2439-45e0-8cfb-d74c95f1dfc6.png" height=50>
 
 <h2 align="center">Kullandığım IDE Çeşitleri</h2>
 
