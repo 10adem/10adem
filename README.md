@@ -7,7 +7,6 @@
 
 ### Ben Kimim
 - :computer:Selçuk Üniversitesi Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim.
-- :computer:YetGen IT Ekip Lideri olarak görev yapmaktayım
 - :computer:Veri Bilimi ve Web Geliştirme alanlarında çalışmalar gerçekleştiriyorum.
 - :computer:Sürekli kendimi geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **ademyildizofficial@gmail.com** adresini kullanabilirsiniz. 
@@ -52,12 +51,12 @@
 
 <h2 align="center">Database</h2>
 
-![My Skills](https://skillicons.dev/icons?i=mysql) //mssql
+![My Skills](https://skillicons.dev/icons?i=mysql)
 <img src="https://user-images.githubusercontent.com/75336900/214643444-15a6b822-2439-45e0-8cfb-d74c95f1dfc6.png" height=50>
 
 <h2 align="center">Kullandığım IDE Çeşitleri</h2>
 
-![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio) //jupyterlab,jupyternootebook,spyder,pycharm
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio)
 
 <h2 align="center">Tasarım Araçları</h2>
 
