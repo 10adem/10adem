@@ -52,6 +52,7 @@
 <h2 align="center">Database</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=mysql)
+<img src="https://user-images.githubusercontent.com/75336900/214643444-15a6b822-2439-45e0-8cfb-d74c95f1dfc6.png" height=50>
 
 <h2 align="center">Kullandığım IDE Çeşitleri</h2>
 
