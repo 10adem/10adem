@@ -12,11 +12,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10adem&label=Profile%20views&color=0e75b6&style=flat" alt="10adem" /> </p>
 
-<p align="center">
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/10adem?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/10adem?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-
 <div>
 <h1 align="center"> 💻Yazılım Geliştiricisi</h1>
 <p align="center">
