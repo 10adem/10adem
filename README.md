@@ -3,7 +3,7 @@
 
 ### Ben Kimim
 - :computer:Selçuk Üniversitesi Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim.
-- :computer:Web Geliştirme ve Mobil Geliştirme alanlarında çalışmalar yapıyorum.
+- :computer:Web Geliştirme ve Veri Bilimi alanlarında çalışmalar yapıyorum.
 - :computer:Sürekli kendimi geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **ademyildizofficial@gmail.com** adresini kullanabilirsiniz. 
 
