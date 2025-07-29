@@ -2,9 +2,9 @@
 <br/>
 
 ### Ben Kimim
-- :computer:Selçuk Üniversitesi Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim.
-- :computer:Web Geliştirme ve Veri Bilimi alanlarında çalışmalar yapıyorum.
-- :computer:Sürekli kendimi geliştirmeye çalışıyorum. 
+- :computer:Selçuk Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.
+- :computer:Web Geliştirme, Veri Bilimi ve Makine Öğrenmesi alanlarında projeler yapıyorum.
+- :computer:Sürekli kendimi geliştirmeye ve yeni bilgiler öğrenmeye çalışıyorum.
 - 📫 Bana ulaşmak isterseniz **ademyildizofficial@gmail.com** adresini kullanabilirsiniz. 
 
 ***:computer:	Simplicity is a prerequisite for reliability.***
@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10adem&label=Profile%20views&color=0e75b6&style=flat" alt="10adem" /> </p>
 
 <div>
-<h1 align="center"> 💻Yazılım Geliştiricisi</h1>
+<h1 align="center"> 💻Junior Yazılım Geliştirici</h1>
 <p align="center">
 <a href="https://github.com/10adem">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10adem&layout=compact&langs_count=16&theme=react"/>
