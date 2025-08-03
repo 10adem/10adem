@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10adem&label=Profile%20views&color=0e75b6&style=flat" alt="10adem" /> </p>
 
 <div>
-<h1 align="center"> 💻Junior Yazılım Geliştirici</h1>
+<h1 align="center"> Junior Yazılım Geliştirici</h1>
 <p align="center">
 <a href="https://github.com/10adem">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10adem&layout=compact&langs_count=16&theme=react"/>
