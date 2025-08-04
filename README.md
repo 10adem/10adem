@@ -5,7 +5,7 @@
 - :computer:Selçuk Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.
 - :computer:Web Geliştirme, Veri Bilimi ve Makine Öğrenmesi alanlarında projeler yapıyorum.
 - :computer:Sürekli kendimi geliştirmeye ve yeni bilgiler öğrenmeye çalışıyorum.
-- 📫 Bana ulaşmak isterseniz **ademyildizofficial@gmail.com** adresini kullanabilirsiniz. 
+- Bana ulaşmak isterseniz **ademyildizofficial@gmail.com** adresini kullanabilirsiniz. 
 
 ***:computer:	Simplicity is a prerequisite for reliability.***
 <br>
