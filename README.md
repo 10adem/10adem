@@ -3,9 +3,8 @@
 
 ### Ben Kimim
 - :computer:Selçuk Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.
-- :computer:Web Geliştirme, Veri Bilimi ve Makine Öğrenmesi alanlarında projeler yapıyorum.
-- Sürekli kendimi geliştirmeye ve yeni bilgiler öğrenmeye çalışıyorum.
-- Bana ulaşmak isterseniz **ademyildizofficial@gmail.com** adresini kullanabilirsiniz. 
+- :computer:Sürekli kendimi geliştirmeye ve yeni bilgiler öğrenmeye çalışıyorum.
+- :computer:Bana ulaşmak isterseniz **ademyildizofficial@gmail.com** adresini kullanabilirsiniz. 
 
 *** Simplicity is a prerequisite for reliability.***
 <br>
