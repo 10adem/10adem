@@ -1,29 +1,49 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Adem%20Yıldız&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&text=Merhaba%20Ben%20Adem%20Y%C4%B1ld%C4%B1z&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici&descSize=18&descAlignY=58" alt="Banner"/>
 
-### Ben Kimim
-- :computer:Selçuk Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.
-- :computer:Sürekli kendimi geliştirmeye ve yeni bilgiler öğrenmeye çalışıyorum.
-- :computer:Bana ulaşmak isterseniz **ademyildizofficial@gmail.com** adresini kullanabilirsiniz. 
-
-Simplicity is a prerequisite for reliability
-<br>
+<!-- Yazı animasyonu -->
+<p align="center">
+  <a href="https://github.com/10adem">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Junior+Yazılım+Geliştirici;Python+%7C+NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Streamlit;Seaborn+%7C+Scikit-learn+%7C+Keras+%7C+TensorFlow+%7C+R;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Node.js+%7C+Django+%7C+Flask+%7C+FastAPI;MSSQL+%7C+MySQL+%7C+MongoDB+%7C+SQLite+%7C+PostgreSQL;Figma+%7C+Adobe+XD;Sürekli+öğrenmeye+devam" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10adem&label=Profile%20views&color=0e75b6&style=flat" alt="10adem" /> </p>
 
-<div>
-<h1 align="center"> Junior Yazılım Geliştirici</h1>
-<p align="center">
-<a href="https://github.com/10adem">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10adem&layout=compact&langs_count=16&theme=react"/>
- </div>
-</p>
+### Ben Kimim
+- Selçuk Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.
+- Sürekli kendimi geliştirmeye ve yeni bilgiler öğrenmeye çalışıyorum.
+- Bana ulaşmak isterseniz **ademyildizofficial@gmail.com** adresini kullanabilirsiniz.
+
+<h3 align="center"><em>"Talk is cheap. Show me the code."</em></h3>
+<p align="center"><b>— Linus Torvalds</b></p>
+
 <br>
 
-<div align = "center">
- 
+<h1 align="center">Junior Yazılım Geliştirici</h1>
+
+<!-- GitHub İstatistikleri -->
+<div align="center">
+  <a href="https://github.com/10adem">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=10adem&theme=react" alt="GitHub Stats"/>
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=10adem&theme=react" alt="Top Languages"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/10adem">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=10adem&theme=react" alt="Most Commit Language"/>
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=10adem&theme=react&utcOffset=3" alt="Productive Time"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=10adem&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 </div>
+
+<br>
 
 <h3 align="left">Sosyal Medya Hesaplarım</h3>
 <p align="left">
@@ -36,6 +56,7 @@ Simplicity is a prerequisite for reliability
 
 <h3 align="left">Programlama Dilleri ve Araçları</h3>
 
+<h4>Python & Veri Bilimi</h4>
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -69,8 +90,7 @@ Simplicity is a prerequisite for reliability
   </a>
 </div>
 
-<br>
-
+<h4>Web Geliştirme & Backend</h4>
 <div align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -90,10 +110,15 @@ Simplicity is a prerequisite for reliability
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
 </div>
 
-<br>
-
+<h4>Veritabanları</h4>
 <div align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
@@ -112,8 +137,7 @@ Simplicity is a prerequisite for reliability
   </a>
 </div>
 
-<br>
-
+<h4>Tasarım Araçları</h4>
 <div align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -122,3 +146,14 @@ Simplicity is a prerequisite for reliability
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe_xd" width="40" height="40"/>
   </a>
 </div>
+
+<br>
+
+<!-- Rastgele Geliştirici Sözü -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote" />
+</div>
+
+---
+
+<p align="center">Repolarımı beğendiyseniz yıldızlayabilirsiniz</p>
