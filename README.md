@@ -3,7 +3,7 @@
 <!-- Yazı animasyonu -->
 <p align="center">
   <a href="https://github.com/10adem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Junior+Yazılım+Geliştirici;Python+%7C+NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Streamlit;Seaborn+%7C+Scikit-learn+%7C+Keras+%7C+TensorFlow+%7C+R;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Node.js+%7C+Django+%7C+Flask+%7C+FastAPI;MSSQL+%7C+MySQL+%7C+MongoDB+%7C+SQLite+%7C+PostgreSQL;Figma+%7C+Adobe+XD;Sürekli+öğrenmeye+devam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Junior+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Python+%7C+NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Streamlit;Seaborn+%7C+Scikit-learn+%7C+Keras+%7C+TensorFlow+%7C+R;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Node.js+%7C+Django+%7C+Flask+%7C+FastAPI;MSSQL+%7C+MySQL+%7C+MongoDB+%7C+SQLite+%7C+PostgreSQL;Figma+%7C+Adobe+XD;S%C3%BCrekli+%C3%B6%C4%9Frenmeye+devam" alt="Typing SVG" />
   </a>
 </p>
 
@@ -152,6 +152,13 @@
 <!-- Rastgele Geliştirici Sözü -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote" />
+</div>
+
+<br>
+
+<!-- Yılan Animasyonu -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/10adem/10adem/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
